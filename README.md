@@ -24,15 +24,15 @@ Sou um profissional em início de carreira, atualmente cursando **Desenvolviment
 - 📱 Desenvolvendo aplicações nativas Android com Java.
 - 📚 Estudando arquitetura de software e testes automatizados
 
-
 <table width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="middle">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=nelsondomiciano97&count=5" alt="Spotify Recently Played" width="100%" />
     </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=gui-developer&theme=dracula" alt="GitHub Streak" width="100%" /><br /><br />
-      <img src="https://github-readme-stats.vercel.app/api?username=gui-developer&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" width="100%" />
+    <td width="50%" align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com/?user=gui-developer&theme=dracula" alt="GitHub Streak" width="100%" />
+      <br /><br />
+      <img src="https://github-readme-stats-liard-one-71.vercel.app/api?username=gui-developer&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
