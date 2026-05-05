@@ -3,7 +3,7 @@
   <br>
 </div>
 
-# Olá, eu sou um Desenvolvedor Java Backend em formação! 👋
+# Olá, eu sou um Desenvolvedor Java Backend👋
 
 Estudante de Análise e Desenvolvimento de Sistemas com foco em backend com Java.
 Aprendendo a construir APIs REST com Spring Boot, modelagem de dados com MySQL
