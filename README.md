@@ -1,28 +1,57 @@
 <div align="center">
-  <img src="./Imagem.jpg" alt="Banner de Boas Vindas" width="100%">
+  <img src="./Imagem.jpg" alt="Banner" width="100%">
   <br>
 </div>
 
-# Olá, eu sou um Desenvolvedor Mobile em formação! 👋
+# Olá, eu sou um Desenvolvedor Java Backend em formação! 👋
 
-Sou um profissional em início de carreira, atualmente cursando **Desenvolvimento Mobile**. Tenho uma base sólida e uma grande paixão pelo ecossistema **Java**, buscando sempre aplicar boas práticas de engenharia de software em meus projetos.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em backend com Java.
+Aprendendo a construir APIs REST com Spring Boot, modelagem de dados com MySQL
+e boas práticas de engenharia de software.
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 Sobre mim
 
-- 🎓 **Estudante:** Focado em desenvolvimento nativo Android e tecnologias Enterprise.
-- ☕ **Java Enthusiast:** Tenho interesse profundo em Java e suas tecnologias (JEE, JPA, Hibernate).
-- 🧪 **Qualidade de Software:** Valorizo testes e metodologias ágeis (TDD, Agile).
-- 🎨 **Lado Criativo:** Nas horas vagas, exploro modelagem e pintura 3D (fã de Elden Ring!) e criação de conteúdo.
+- 🎓 **Estudante:** Cursando ADS, com foco em desenvolvimento backend e ecossistema Java.
+- ☕ **Java Enthusiast:** Interesse profundo em Java, Spring Boot, JPA e Hibernate.
+- 🧪 **Qualidade de Software:** Valorizo boas práticas, código limpo e testes automatizados.
+- 🎨 **Lado Criativo:** Nas horas vagas, modelagem 3D e pintura (fã de Elden Ring!).
 
 ---
 
 ### ⚡ Atualmente
 
-- 🏆 Participante do **DIO Campus Expert (Turma 14)**.
-- 📱 Desenvolvendo aplicações nativas Android com Java.
-- 📚 Estudando arquitetura de software e testes automatizados
+- 📚 Estudando Java core, Spring Boot, APIs REST e MySQL.
+- 🏗️ Construindo meu primeiro projeto backend do zero.
+- 🎓 Participante do **DIO Campus Expert (Turma 14)**.
+
+---
+
+### 🛠️ Stack & ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+### 📍 Roadmap
+
+| Tópico | Status |
+|---|---|
+| Java core & POO | 🟢 Em andamento |
+| Spring Boot | 🟢 Em andamento |
+| APIs REST | 🟢 Em andamento |
+| MySQL | 🟢 Em andamento |
+| JPA / Hibernate | ⚪ Próximo |
+| Testes com JUnit | ⚪ Próximo |
+
+---
 
 <table width="100%">
   <tr>
@@ -36,4 +65,3 @@ Sou um profissional em início de carreira, atualmente cursando **Desenvolviment
     </td>
   </tr>
 </table>
-
