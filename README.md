@@ -3,11 +3,13 @@
   <br>
 </div>
 
-# Olá, eu sou um Desenvolvedor Java Backend👋
-
-Estudante de Análise e Desenvolvimento de Sistemas com foco em backend com Java.
-Aprendendo a construir APIs REST com Spring Boot, modelagem de dados com MySQL
-e boas práticas de engenharia de software.
+# Olá, eu sou o Guilherme 👋
+### Desenvolvedor Java Backend em formação
+ 
+Último período de Análise e Desenvolvimento de Sistemas, construindo bases sólidas em
+Java e no ecossistema Spring. Foco em entender o "porquê" por trás do código antes de
+sair copiando padrão — API REST, modelagem de dados com MySQL e boas práticas de
+engenharia de software fazem parte da rotina de estudo.
 
 ---
 
@@ -21,12 +23,14 @@ e boas práticas de engenharia de software.
 ---
 
 ### ⚡ Atualmente
-
 - 📚 Estudando Java core, Spring Boot, APIs REST e MySQL.
 - 🏗️ Construindo meu primeiro projeto backend do zero.
-- 🎓 Participante do **DIO Campus Expert (Turma 14)**.
 
----
+### 🎓 Formação & Programas
+- 🏫 **ADS:** Último período, Análise e Desenvolvimento de Sistemas.
+- ☕ **Generation Brasil:** Turma 85 — Formação Java.
+- 🔶 **Oracle Next Education (ONE):** Turma ONE IA Tech.
+- 🎓 **DIO Campus Expert:** Turma 14.
 
 ### 🛠️ Stack & ferramentas
 
